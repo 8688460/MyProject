@@ -11,5 +11,11 @@ private void rate() {
 	System.out.println("rate is 200");
 
 }
+private void rate1() {
+	System.out.println("rate is 250");
+
+}
+
+
 
 }
