@@ -6,5 +6,10 @@ public class AxixBank extends SbiBank {
 		System.out.println("Get rate of Interest is 9%");
 		
 	}
+	
+private void rate() {
+	System.out.println("rate is 200");
+
+}
 
 }
